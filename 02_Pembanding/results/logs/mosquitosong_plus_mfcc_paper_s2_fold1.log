@@ -1,0 +1,10 @@
+[mosquitosong_plus_mfcc_paper_s2 f1] resume dari checkpoint: epoch 714, best@382
+[mosquitosong_plus_mfcc_paper_s2 f1] device=GPU:Tesla T4 lr=0.0001 train=21000 val=4593 test=600 params=370,696
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 715/1000 loss 0.0671 val_loss 0.1591 val_acc 0.9506 best@382 (3973s)
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 750/1000 loss 0.0699 val_loss 0.1596 val_acc 0.9501 best@382 (4165s)
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 800/1000 loss 0.0698 val_loss 0.1428 val_acc 0.9571 best@382 (4440s)
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 850/1000 loss 0.0644 val_loss 0.1447 val_acc 0.9530 best@382 (4724s)
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 900/1000 loss 0.0601 val_loss 0.1668 val_acc 0.9462 best@382 (5000s)
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 950/1000 loss 0.0665 val_loss 0.1462 val_acc 0.9484 best@933 (5276s)
+[mosquitosong_plus_mfcc_paper_s2 f1] ep 1000/1000 loss 0.0691 val_loss 0.1554 val_acc 0.9528 best@933 (5553s)
+[mosquitosong_plus_mfcc_paper_s2 f1] done. best epoch 933, test ACC 0.984, 92.6 min

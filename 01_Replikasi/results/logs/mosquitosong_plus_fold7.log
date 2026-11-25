@@ -1,0 +1,8 @@
+[mosquitosong_plus f7] resume dari checkpoint: epoch 817, best@429
+[mosquitosong_plus f7] device=GPU:Tesla T4 lr=0.0001 train=21000 val=4593 test=600 params=348,808
+[mosquitosong_plus f7] ep 818/1000 loss 0.1451 val_loss 0.2177 val_acc 0.9268 best@429 (4630s)
+[mosquitosong_plus f7] ep 850/1000 loss 0.1485 val_loss 0.2063 val_acc 0.9342 best@429 (4804s)
+[mosquitosong_plus f7] ep 900/1000 loss 0.1404 val_loss 0.2070 val_acc 0.9288 best@429 (5077s)
+[mosquitosong_plus f7] ep 950/1000 loss 0.1310 val_loss 0.2056 val_acc 0.9327 best@429 (5352s)
+[mosquitosong_plus f7] ep 1000/1000 loss 0.1387 val_loss 0.2224 val_acc 0.9251 best@429 (5617s)
+[mosquitosong_plus f7] done. best epoch 429, test ACC 0.948, 93.7 min
